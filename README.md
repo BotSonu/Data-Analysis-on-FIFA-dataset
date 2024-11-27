@@ -2,6 +2,6 @@
 
 ## FIFA Dataset Analysis
 
-This project uses a FIFA dataset sourced from Kaggle to perform data analysis on player statistics. By utilizing Python libraries such as pandas, numpy, seaborn, and matplotlib, we explore key trends, player performance metrics, and other insights. The analysis is conducted in a Jupyter notebook, which allows for interactive data exploration and visualization, revealing patterns in player attributes, team performance, and more.
+This project focuses on data analysis of the FIFA dataset from Kaggle. Using Python libraries like pandas and numpy, the analysis explores player statistics, identifies trends, and uncovers key insights into player performance and team data. The goal is to perform in-depth data exploration without using any visualization techniques.
 
 ---
